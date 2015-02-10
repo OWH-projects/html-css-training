@@ -18,7 +18,7 @@ When you type in a URL, your browser sends a request to the server associated wi
 <li>You want to understand how web pages are structured so that, eventually, you can scrape data and automate web-based reporting tasks.</li>
 </ol>
 
-##More resources
+###More resources
 <ul>
 <li><a href="http://www.codecademy.com/tracks/web">Codecademy</a></li>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Mozilla Developer Network</a></li>

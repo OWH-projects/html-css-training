@@ -2,7 +2,7 @@
 This session will introduce you to the basic components of the web page: HTML markup and Cascading Style Sheets.
 
 ###The Web: It's text files all the way down
-Good rule of thumb/huge oversimplification: A web page is basically just a specially formatted text file.
+Good rule of thumb/huge oversimplification: Web pages are text files with special formatting.
 
 Open your text editor. Type this:
 

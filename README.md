@@ -1,6 +1,12 @@
 #HTML/CSS
 This session will introduce you to the basic components of the web page: HTML markup and Cascading Style Sheets.
 
+###Prereqs
+<ol>
+<li>I mean, a computer would be nice, but you can just copy these files later from the internet, so it's not required.</li>
+<li>Internet connection</li>
+<li>Text editor - Notepad (PC) or TextEdit (Mac) will do just fine.</li>
+
 ###The Web: It's text files all the way down
 Basically, web pages are just text files with specially formatted content.
 

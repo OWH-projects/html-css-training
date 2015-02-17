@@ -24,7 +24,7 @@ When you type in a URL, your browser sends a request to a server, reads the "ins
 </ol>
 
 ###Session outline
-<ul>
+<ol>
 <li>Tags: Open and close</li>
 <li>Headers: h1-h6 (But really, who uses h6?)</li>
 <li>Linking. "A href" explained.</li>
@@ -32,6 +32,7 @@ When you type in a URL, your browser sends a request to a server, reads the "ins
 <li>CSS: Changing colors and fonts</li>
 <li>CSS: Inline vs. stylesheet</li>
 <li>CSS: Class vs. ID. One item or multiple?</li>
+</ol>
 
 ###Final product
 By the end of this session, you'll have a working version of a simple web page. Maybe it's a portfolio of your work. Maybe it's a new home page for the non-profit you manage. All of the sudden, the code is a little less scary.

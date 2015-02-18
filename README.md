@@ -5,6 +5,7 @@ This session will introduce you to the basic components of the web page: HTML ma
 <ol>
 <li>I mean, a computer would be nice, but you can just copy these files later from the internet, so it's not required.</li>
 <li>Internet connection</li>
+<li>Chrome or Firefox, preferably</li>
 <li>Text editor - Notepad (PC) or TextEdit (Mac) will do just fine.</li>
 </ol>
 
@@ -13,6 +14,7 @@ This session will introduce you to the basic components of the web page: HTML ma
 <li>Tags: Open and close</li>
 <li>Headers: h1-h6 (But really, who uses h6?)</li>
 <li>Linking. "A href" explained.</li>
+<li>Images. How to get them onto your page.</li>
 <li>The Div. It's just a box.</li>
 <li>CSS: Changing colors and fonts</li>
 <li>CSS: Inline vs. stylesheet</li>
@@ -22,10 +24,8 @@ This session will introduce you to the basic components of the web page: HTML ma
 ###Final product
 By the end of this session, you'll have a working version of a simple web page. Maybe it's a portfolio of your work. Maybe it's a new home page for the non-profit you manage. All of the sudden, the code is a little less scary.
 
-
-
 ###The Web: It's text files all the way down
-Basically, web pages are just text files with specially formatted content.
+Basically, web pages are just text files with specially formatted content. Knowing this helps demystify the whole process.
 
 Open your text editor. Type this:
 
@@ -35,17 +35,16 @@ Open your text editor. Type this:
 &lt;/html>
 </pre>
 
-Save this file to your desktop with an .html extension. Now open this file in a browser. Congratulations: You're a web developer.
+Save this file with an .html extension. Now open it in a browser. Congratulations: You're a web developer.
 
-When you type in a URL, your browser sends a request to a server, reads the "instructions" encoded in the file you've requested and renders the results on your screen. This session is about learning the basic syntax of those instructions.
+Here's how it works: When you type in a URL, your browser sends a request to a server, then it reads the "instructions" encoded in the file you've requested and renders the results on your screen. (The same thing happens when you request a page saved on your desktop.) This session is about learning some of the basic syntax of those instructions.
 
 ###How this could benefit you
 <ol>
 <li>You're curious about online formatting.</li>
-<li>You want to make online assets to support your journalism: maps, charts, widgets and so on.</li>
+<li>You want to make online assets to support your journalism: maps, charts, widgets, whatever.</li>
 <li>You want to understand how web pages are structured because, eventually, you want to scrape data and automate web-based reporting tasks.</li>
 </ol>
-
 
 ###More resources
 <ul>

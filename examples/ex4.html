@@ -4,11 +4,9 @@
     <title>Example 4</title>
     
     <style>
-    html, body { font-family:Arial, sans-serif; text-transform:uppercase; font-weight:bold; font-size:12px; } 
     .container { width: 600px; }
-    .bar { background:#17439a; color:white; padding:7px; height:15px; float:left;}
-    .barrest { background:#e7eefb; padding:7px; height:15px;}
-    .clear { clear:both; margin-bottom:10px; }
+    div.pollchart { height:30px; width:100%; background:#e7eefb; margin-bottom: 15px; padding:0; }
+    div.innerpoll { background:#17439a; height:100%; font-family:Arial, sans-serif; text-transform:uppercase; font-weight:bold; font-size:12px; color:#fff; } 
     </style>
     
     </head>
@@ -17,22 +15,33 @@
 
     <div class="container">
     
-    <div class="bar" style="width:45%;">Candidate A: 55%</div>
-    <div class="barrest"></div>
-
-    <div class="clear"></div>
+    <p>You can also use CSS styling to make chartlike components like this simple bar graph here.</p>
     
-    <div class="bar" style="width:25%;">Candidate B: 25%</div>
-    <div class="barrest"></div>
-
-    <div class="clear"></div>
-    
-    <div class="bar" style="width:20%;">Candidate C: 20%</div>
-    <div class="barrest"></div>
-    
+    <div class='pollchart'>
+        <div class="innerpoll" style='width:45%'>
+        <div style="padding:8px;">
+            Candidate A: 45%
+        </div>
+        </div>
     </div>
     
-
+    <div class='pollchart'>
+        <div class="innerpoll" style='width:30%'>
+        <div style="padding:8px;">
+            Candidate B: 30%
+        </div>
+        </div>
+    </div>
+    
+    <div class='pollchart'>
+        <div class="innerpoll" style='width:25%'>
+        <div style="padding:8px;">
+            Candidate C: 25%
+        </div>
+        </div>
+    </div>
+    
+    </div>
     
     </body>
 

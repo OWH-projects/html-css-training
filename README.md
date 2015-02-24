@@ -16,9 +16,11 @@ This session will introduce you to the basic components of the web page: HTML ma
 <li>Linking. "A href" explained.</li>
 <li>Images. How to get them onto your page.</li>
 <li>The Div. It's just a box.</li>
+<li>Lists: Numbers and bullets</li>
 <li>CSS: Changing colors and fonts</li>
 <li>CSS: Inline vs. stylesheet</li>
 <li>CSS: Class vs. ID. One item or multiple?</li>
+<li>Herr Web Inspector, I presume?</li>
 </ol>
 
 ###Final product

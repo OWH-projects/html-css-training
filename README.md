@@ -20,7 +20,7 @@ This session will introduce you to the basic components of the web page: HTML ma
 <li>CSS: Changing colors and fonts</li>
 <li>CSS: Inline vs. stylesheet</li>
 <li>CSS: Class vs. ID. One item or multiple?</li>
-<li>Herr Web Inspector, I presume?</li>
+<li>View-source and the web inspector, your very best friends</li>
 </ol>
 
 ###Final product

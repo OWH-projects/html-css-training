@@ -1,25 +1,45 @@
 <!doctype html>
 <html lang="en">
     <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Example 3</title>
-
-    <link href="http://dataomaha.com/media/scripts/bootstrap/3.0.3/css/bootstrap.css" rel="stylesheet">
-
+    <title>Example 4</title>
+    
+    <style>
+    .container { width: 600px; }
+    div.pollchart { height:30px; width:100%; background:#e7eefb; margin-bottom: 15px; padding:0; }
+    div.innerpoll { background:#17439a; height:100%; font-family:Arial, sans-serif; text-transform:uppercase; font-weight:bold; font-size:12px; color:#fff; } 
+    </style>
+    
     </head>
-
-<!-- This is how you make a comment in HTML -->
     
     <body>
 
     <div class="container">
-    <h2>Bootstrap!</h2>
-    <p>You can also tell your page to use an external CSS file. This page is using the popular CSS framework <a href="http://getbootstrap.com/">Bootstrap</a>, on which most Dataomaha apps are based.</p>
     
-    <p>Hit Ctrl+U to view the page source to see how to bring in an external CSS file.</p>
+    <p>You can also use CSS styling to make chartlike components like this simple bar graph here.</p>
+    
+    <div class='pollchart'>
+        <div class="innerpoll" style='width:45%'>
+        <div style="padding:8px;">
+            Candidate A: 45%
+        </div>
+        </div>
+    </div>
+    
+    <div class='pollchart'>
+        <div class="innerpoll" style='width:30%'>
+        <div style="padding:8px;">
+            Candidate B: 30%
+        </div>
+        </div>
+    </div>
+    
+    <div class='pollchart'>
+        <div class="innerpoll" style='width:25%'>
+        <div style="padding:8px;">
+            Candidate C: 25%
+        </div>
+        </div>
+    </div>
     
     </div>
     

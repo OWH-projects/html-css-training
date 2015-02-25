@@ -1,6 +1,6 @@
-/* style rules for our 'Hello, World' example page */
+/* CSS for our 'Hello, World' example page */
 
-/* these styles affect everything inside of the <body> tag */
+/* These styles affect everything inside of the <body> tag */
 body { 	
 	font-family: inherit;
 	background: #fff; 

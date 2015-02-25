@@ -1,10 +1,25 @@
-/* CSS for style goes on this page */
+/* style rules for our 'Hello, World' example page */
 
-body {
+/* these styles affect everything inside of the <body> tag */
+body { 	
 	font-family: inherit;
+	background: #fff; 
 }
 
-li {
-	list-style: none;
+/* Notice that some CSS styles are written on multiple lines (like above) and ... */ 
+/* Others are written on a single line, (like below). There's no right or wrong way. */
+/* Multi-line makes it easier to read. */
+/* Single-line slightly decreases the file size. */
 
-}
+
+div#topper { background: #ccc; }
+div#topper h1 { font-size: 80px; text-align: center; }
+
+
+div.container { width: 80%; margin: 0 auto; padding: 50px 0; }
+
+/* this takes away the bullets on list items */
+li { list-style: none; }
+
+/* float:left makes the images display side-by-side instead of each on its own line */
+img.thumbnail { width: 125px; float: left; margin: 0 20px 20px 0;}
